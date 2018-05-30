@@ -6,6 +6,18 @@
         </div>
     </form>
 </aside>
+
+<aside class="widget clearfix">
+    <h4 class="widget-title">支持我</h4>
+    <ul class="widget-cat">
+        <script type="text/javascript">
+            /*300*250 创建于 2017/11/15*/
+            var cpro_id = "u3137338";
+        </script>
+        <script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js"></script>
+    </ul>
+</aside>
+
 <aside class="widget clearfix">
     <h4 class="widget-title">文章分类</h4>
     <ul class="widget-cat">

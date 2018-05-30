@@ -7,7 +7,7 @@
         <div class="view-meta">
             <span>作者: <?php the_author() ?></span>
             <span>分类: <?php the_category(',') ?></span>
-            <span>发布时间: <?php the_time('Y-m-d H:i') ?></span>
+            <!-- <span>发布时间: <?php the_time('Y-m-d H:i') ?></span> -->
             <span><?php edit_post_link('<i class="fa fa-pencil-square-o" aria-hidden="true"></i> 编辑'); ?></span>
         </div>
         <div class="view-content">
@@ -28,6 +28,18 @@
     </article>
 <?php endwhile; ?>
     <section class="col-md-8 col-md-offset-2 clearfix">
+
+    <div class="read">
+        <div class="read-head"> <i class="fa fa-tags"></i> 支持我 </div>
+        <div class="read-list">
+            <script type="text/javascript">
+                /*300*250 创建于 2017/11/15*/
+                var cpro_id = "u3137338";
+            </script>
+            <script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js"></script>
+        </div>
+    </div>
+
     <div class="read">
         <div class="read-head"> <i class="fa fa-book"></i> 更多阅读 </div>
         <div class="read-list row">
